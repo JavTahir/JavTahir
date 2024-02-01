@@ -45,6 +45,11 @@ I'm a passionate computer science student with a strong interest in software dev
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/>
 </a>
 
+<a href="https://laravel.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40"/>
+</a>
+
+
 </p>
 
 ## Social Media
