@@ -40,7 +40,7 @@ I'm a passionate computer science student with a strong interest in software dev
   </a> 
   </a> 
     <a href="https://react.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getreact/getreact-icon.svg" alt="react" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/getReact/getReact-icon.svg" alt="React" width="40" height="40"/>
   </a> 
 </p>
 
