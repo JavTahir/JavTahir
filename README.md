@@ -34,7 +34,7 @@ I'm a passionate computer science student with a strong interest in software dev
   </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
- <a href="https://postman.com" target="_blank" rel="noreferrer">
+ <a href="https://flutter.com" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/getflutter/getflutter-icon.svg" alt="flutter" width="40" height="40"/>
 </a>
 
