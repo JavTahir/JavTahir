@@ -39,9 +39,10 @@ I'm a passionate computer science student with a strong interest in software dev
     <img src="https://www.vectorlogo.zone/logos/getflutter/getflutter-icon.svg" alt="flutter" width="40" height="40"/>
   </a> 
   </a> 
-    <a href="https://react.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getReact/getReact-icon.svg" alt="React" width="40" height="40"/>
-  </a> 
+  <a href="https://react.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/>
+</a>
+
 </p>
 
 ## Social Media
