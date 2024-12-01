@@ -1,29 +1,30 @@
-# 💥 Hey, I'm Javeria Tahir! 💥
-> **"Coding is my passion, and I find myself boring without it."**
+# <p align="center">👋 <span style="color:#FF6347;">Hi, I'm Javeria Tahir!</span></p>
 
-### 👋 Welcome to my profile!
+<p align="center">
+  <h2>Full Stack Mobile App Developer 🚀</h2>
+</p>
 
-I’m a full-stack **mobile app developer** who’s passionate about building **amazing UIs** for mobile apps. I tackle Gradle bugs (they suck, I know!), and my goal is always to create seamless designs that make the user experience smooth and beautiful. I strive to build **clean, organized code** and maintain a solid **directory architecture** while minimizing server dependencies for smoother client-server communication.
-
-I may struggle to shape the perfect design, but I’ll keep pushing until the dream comes to life! 💻✨
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" alt="aws" width="60" height="60"/>
+</p>
 
 ---
 
-## 🌈 Technologies I Love 💻
+### ✨ About Me:
+<p align="center">
+  I’m a **Full Stack Mobile App Developer** who loves building intuitive **user interfaces**. Designing for mobile is a challenge, but I enjoy bringing the dream designs to life. From battling **Gradle bugs** to optimizing server-client communication, every project is a new adventure! **Coding is my passion**, and without it, life is pretty boring. Let’s build something amazing! 💖
+</p>
+
+---
+
+## 🚀 Tools & Technologies I Use:
 
 <p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-  </a>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/>
   </a>
@@ -33,11 +34,11 @@ I may struggle to shape the perfect design, but I’ll keep pushing until the dr
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
   </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" width="85" height="50"/>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
   </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
   </a>
   <a href="https://www.docker.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
@@ -49,7 +50,7 @@ I may struggle to shape the perfect design, but I’ll keep pushing until the dr
 
 ---
 
-## 🌸 Let's Connect! 🌸
+### 💻 Let's Connect!
 
 <p align="center">
   <a href="https://twitter.com/Javeria_t02" target="_blank">
@@ -63,18 +64,7 @@ I may struggle to shape the perfect design, but I’ll keep pushing until the dr
 
 ---
 
-### 🖥️ I’m a Full-Stack Mobile App Developer 😎
+### 🏁 Let’s Code & Build Something Cool! 🎉
 
-![coder gif](https://media.giphy.com/media/13HgwG9pRnYI1o/giphy.gif)
+![developer gif](https://media.giphy.com/media/Jt8EwoW9hMTyYc1rNh/giphy.gif)
 
-💪 From tackling **Gradle bugs** (which are such a headache! 😩) to crafting **stunning UIs** that bring dream designs to life, I live for this! 🌟 I create apps that don’t just look good, but are also super efficient by minimizing the number of requests to the server. 🛠️ 
-
-Following clean code practices and well-organized architecture is a priority for me, making sure everything flows seamlessly. 🌐 My goal is to make users smile with beautiful apps, without worrying about backend server communication! 😍💬
-
-### ⚡ Coding is not just a skill for me—it’s my passion. Without it, life’s just boring. 🔥
-
----
-
-### 🧑‍💻 Thanks for visiting! 💖
-
-Feel free to explore my repos, hit me up on Twitter, or connect on LinkedIn. Let’s build something amazing! 🚀
