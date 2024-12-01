@@ -4,7 +4,7 @@
 
 <h2>Full Stack Mobile App Developer</h2>
 
-I love building intuitive **user interfaces**. Designing for mobile is a challenge, but I enjoy bringing the dream designs to life. From battling **Gradle bugs** to optimizing server-client communication, i try to maintain a clean and cost effective architecture flow! **Coding is my passion**, and without it, life is pretty boring.Collaborating on implementing different ideas is what i am looking forward to it <3
+I love building intuitive **user interfaces**. Designing for mobile is a challenge, but I enjoy bringing the dream designs to life. From battling **Gradle bugs** to optimizing server-client communication, i try to maintain a clean and cost effective architecture flow! **Coding is my passion**, and without it, life is pretty boring. Collaborating on implementing different ideas is what i am looking forward to it <3
 
 
 ## Tools and Technologies
@@ -46,6 +46,10 @@ I love building intuitive **user interfaces**. Designing for mobile is a challen
 
 <a href="https://laravel.com" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="40" height="40"/>
+</a>
+
+<a href="https://aws.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/aws/aws-icon.svg" alt="AWS" width="40" height="40"/>
 </a>
 
 
