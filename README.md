@@ -1,13 +1,28 @@
-                                                            # Hi there! 👋 I'm Javeria Tahir
+<p align="center">
+  <span id="typingText" style="font-size: 40px; font-weight: bold; color: #FF6347;"></span>
+</p>
+
+<script>
+  const text = "Hi there! 👋 I'm Javeria Tahir";
+  let index = 0;
+  const typingTextElement = document.getElementById("typingText");
+
+  function type() {
+    if (index < text.length) {
+      typingTextElement.innerHTML += text.charAt(index);
+      index++;
+      setTimeout(type, 100);
+    }
+  }
+
+  type();
+</script>
+
 
 <h2>Full Stack Mobile App Developer 🚀</h2>
 
  I love building intuitive **user interfaces**. Designing for mobile is a challenge, but I enjoy bringing the dream designs to life. From battling **Gradle bugs** to optimizing server-client communication, every project is a new adventure! **Coding is my passion**, and without it, life is pretty boring. Let’s build something amazing! 💖
 
-## About Me
-- 🎓 Bachelor's student in Computer Science
-- 💻 Passionate about software development and programming
-- 🌟 Always eager to learn and improve my skills
 
 ## Tools and Technologies
 
