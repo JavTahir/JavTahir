@@ -49,7 +49,7 @@ I love building intuitive **user interfaces**. Designing for mobile is a challen
 </a>
 
 <a href="https://aws.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/aws/aws-icon.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" alt="AWS" width="40" height="40"/>
 </a>
 
 
