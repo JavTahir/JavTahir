@@ -61,10 +61,3 @@ I love building intuitive **user interfaces**. Designing for mobile is a challen
 
 <h3 align="center">Thanks for visiting! </h3>
 
-<!-- Add the CSS animation code here for typing effect -->
-<style>
-@keyframes typing {
-  0% { width: 0; }
-  100% { width: 100%; }
-}
-</style>
