@@ -1,4 +1,8 @@
-# <div style="display:inline; animation: typing 2s steps(30) 1s 1 normal both;">Hi there! 👋 I'm Javeria Tahir</div>
+<div align="center">
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1B5D7A&vCenter=true&width=439&height=53&lines=Hi+%F0%9F%91%8B+I'm+Javeria+Tahir)](https://git.io/typing-svg)
+
+</div>
 
 
 <h2>Full Stack Mobile App Developer</h2>
