@@ -5,7 +5,7 @@
 </div>
 
 
-<h3>Full Stack Mobile App Dev | Learner</h3>
+<h3>Aspiring full Stack Mobile App Dev</h3>
 
 I love building intuitive **user interfaces**. Designing for mobile is a challenge, but I enjoy bringing the dream designs to life. From battling **Gradle bugs** to optimizing server-client communication, i try to maintain a clean and cost effective architecture flow! **Coding is my passion**, and without it, life is pretty boring. Collaborating on implementing different ideas is what i am looking forward to <3
 
