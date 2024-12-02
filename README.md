@@ -1,9 +1,9 @@
-# Hi there! 👋 I'm Javeria Tahir
+# <div style="display:inline; animation: typing 2s steps(30) 1s 1 normal both;">Hi there! 👋 I'm Javeria Tahir</div>
 
 
 <h2>Full Stack Mobile App Developer</h2>
 
-I love building intuitive **user interfaces**. Designing for mobile is a challenge, but I enjoy bringing the dream designs to life. From battling **Gradle bugs** to optimizing server-client communication, i try to maintain a clean and cost effective architecture flow! **Coding is my passion**, and without it, life is pretty boring. Collaborating on implementing different ideas is what i am looking forward to it <3
+I love building intuitive **user interfaces**. Designing for mobile is a challenge, but I enjoy bringing the dream designs to life. From battling **Gradle bugs** to optimizing server-client communication, i try to maintain a clean and cost effective architecture flow! **Coding is my passion**, and without it, life is pretty boring. Collaborating on implementing different ideas is what i am looking forward to <3
 
 
 ## Expertise
