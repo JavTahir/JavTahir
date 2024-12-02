@@ -1,69 +1,9 @@
 # Hi there! 👋 I'm Javeria Tahir
 
-<div align="center">
-  <h2>
-    <span id="typing-text"></span>
-    <span id="cursor">|</span>
-  </h2>
-</div>
 
 <h2>Full Stack Mobile App Developer</h2>
 
 I love building intuitive **user interfaces**. Designing for mobile is a challenge, but I enjoy bringing the dream designs to life. From battling **Gradle bugs** to optimizing server-client communication, i try to maintain a clean and cost effective architecture flow! **Coding is my passion**, and without it, life is pretty boring. Collaborating on implementing different ideas is what i am looking forward to it <3
-
-<style>
-  #typing-text {
-    font-family: 'Courier New', monospace;
-    color: #d4d4d4;
-  }
-
-  #cursor {
-    font-family: 'Courier New', monospace;
-    color: #d4d4d4;
-    animation: blink 0.7s step-start infinite;
-  }
-
-  @keyframes blink {
-    50% { opacity: 0; }
-  }
-
-  @keyframes typing {
-    from { width: 0; }
-    to { width: 100%; }
-  }
-
-  #typing-text {
-    display: inline-block;
-    white-space: nowrap;
-    overflow: hidden;
-    border-right: 2px solid;
-    animation: typing 4s steps(30, end), blink 0.7s step-start infinite;
-  }
-</style>
-
-<script>
-  const typingText = "Hi there! I am Javeria Tahir.";
-  const element = document.getElementById("typing-text");
-
-  function typeAnimation() {
-    let index = 0;
-    const typingInterval = setInterval(() => {
-      if (index < typingText.length) {
-        element.textContent += typingText[index];
-        index++;
-      } else {
-        clearInterval(typingInterval);
-        setTimeout(() => {
-          element.textContent = "";
-          typeAnimation();
-        }, 2000); // Pause before repeating
-      }
-    }, 150);
-  }
-
-  document.addEventListener("DOMContentLoaded", typeAnimation);
-</script>
-
 
 
 ## Expertise
