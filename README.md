@@ -14,7 +14,7 @@ I enjoy working on backend systems and exploring how things work behind the scen
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <a href="https://aws.com" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="[[[[https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.sv](https://cdn.iconscout.com/icon/free/png-512/free-dotnet-icon-svg-download-png-283005.png?f=webp&w=512)g](https://www.svgrepo.com/show/376369/dotnet.svg)](https://www.svgrepo.com/show/376369/dotnet.svg)](https://cdn.iconscout.com/icon/free/png-512/free-dotnet-icon-svg-download-png-283005.png?f=webp&w=512)" alt="DOTNET" width="40" height="40"/>
+    <img src="https://images.icon-icons.com/2699/PNG/512/dotnet_logo_icon_169231.png" alt="DOTNET" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin: 5px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
