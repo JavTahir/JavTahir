@@ -12,16 +12,9 @@ I enjoy working on backend systems and exploring how things work behind the scen
 
 ## Expertise
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" width="70" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" alt="AWS" width="40" height="40"/>
-</p>
+| Python | Java | FastAPI | MongoDB | PostgreSQL | Postman | Flutter | AWS |
+|--------|------|---------|---------|------------|---------|---------|-----|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> | <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" width="70" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" width="40" height="40"/> |
 
 
 
