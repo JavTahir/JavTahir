@@ -12,7 +12,7 @@ I enjoy working on backend systems and exploring how things work behind the scen
 
 ## Expertise
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+<p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin: 5px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
