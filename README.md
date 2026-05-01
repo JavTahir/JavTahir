@@ -13,9 +13,6 @@ I enjoy working on backend systems and exploring how things work behind the scen
 ## Expertise
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <a href="https://aws.com" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://images.icon-icons.com/2415/PNG/512/dot_net_plain_wordmark_logo_icon_146545.png" alt="DOTNET" width="40" height="40"/>
-  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin: 5px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
